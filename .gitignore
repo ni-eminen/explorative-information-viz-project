@@ -2,3 +2,4 @@ src/data/**
 src/maps/**
 src/venv
 .DS_Store
+.idea
